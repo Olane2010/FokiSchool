@@ -15,4 +15,7 @@ function showprompt()
     
 }
 
-
+function OnClick()
+{
+    alert("В разработке!");
+}
