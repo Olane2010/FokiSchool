@@ -1,5 +1,5 @@
 alert ("Добро Пожаловать на страницу 7В класса")
-showprompt();
+//showprompt();
 
 function showprompt()
 {
