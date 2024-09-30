@@ -5,16 +5,6 @@
     -webkit-text-stroke: 0.3px  rgb(61, 0, 61);
 }
 
-.RefreshSite
-      {
-        text-align: right;
-      }  
-.Photo{
-        style{
-          text-align: center;
-        }
-      }
-
 body{
        background-image: url(Images/Backround.gif);
        background-repeat:repeat;
