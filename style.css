@@ -29,6 +29,11 @@
 
 .div    
 {
+    color: rgb(  183,132,167);
+    font-family: 'Courier', monospace;
+    font-smooth: never;
+    -webkit-font-smoothing : none;
+    -webkit-text-stroke: 0.3px  rgb(61, 0, 61);
     text-align: center;
     border: medium solid red;
 }
